@@ -49,4 +49,9 @@ public class Couleur {
                 ", vert=" + vert +
                 '}';
     }
+    public void blanchir() {
+        rouge = (rouge+255)/2;
+        bleu = (bleu+255)/2;
+        vert = (vert+255)/2;
+    }
 }
