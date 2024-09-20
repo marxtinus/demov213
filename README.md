@@ -1,1 +1,1 @@
-Uquam inf 2102 lab 1 et 2
+Uqam inf 2102 lab 1 et 2
